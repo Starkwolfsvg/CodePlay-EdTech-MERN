@@ -35,8 +35,6 @@ The CodePlay is built using the following technologies:
 
 ## Acknowledgements
 
-The CodePlay was created by Pranjal Mishra. Special thanks to Love Babbar Bhaiya and CodeHelp.
+Thanks to Love Babbar Bhaiya's Web dev course, I was able to build this project
 
-## Contact
-
-If you have any questions or suggestions regarding this project, please feel free to contact Email - PranjalMishraContact@gmail.com.    
+   
